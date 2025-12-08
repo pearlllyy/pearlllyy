@@ -4,15 +4,7 @@
 const profile = {
   name: "Pearl Anne Sobrevega",
   bio: "I'm a second-year IT student passionate about turning ideas into code. Currently diving deep into programming fundamentals and exploring the vast world of software development. ",
-  interests: "I love the challenge of breaking down complex problems into solutions. 
-Exploring both frontend and backend to understand the complete picture
-Algorithm Design: The art of creating efficient solutions fascinates me
-Open Source: Learning from and contributing to the developer community
-System Architecture: Understanding how large-scale applications are built and maintained
-Automation: Making repetitive tasks disappear with code
-Reading tech blogs and staying updated with industry trends
-Debugging
-Exploring how technology can solve real-world problems",
+  interests: "I love the challenge of breaking down complex problems into solutions. Exploring both frontend and backend to understand the complete picture. Algorithm Design: The art of creating efficient solutions fascinates me. Open Source: Learning from and contributing to the developer community. System Architecture: Understanding how large-scale applications are built and maintained. Automation: Making repetitive tasks disappear with code. Reading tech blogs and staying updated with industry trends. Debugging and exploring how technology can solve real-world problems",
   skills: [
     "HTML5",
     "CSS3",
