@@ -49,13 +49,13 @@ I'm a second-year IT student passionate about turning ideas into code. Currently
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pearlllyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlllyy&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pearlllyy&theme=tokyonight&hide_border=true)
-  
+<a href="https://github.com/pearlllyy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pearlllyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlllyy&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlllyy&theme=tokyonight" alt="pearlllyy's streak"/>
 </div>
 
 ## 🌱 What I'm Working On
