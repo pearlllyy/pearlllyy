@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PEARLLLYY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+Digital+Workspace+%F0%9F%91%8B;Where+Ideas+Transform+Into+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=2nd+year+BSIT+Student;Building+ideas+one+commit+at+a+time." alt="Typing SVG" />
 </h3>
 
 ```ascii
@@ -28,7 +28,7 @@ class ITStudent:
     def __init__(self):
         self.username = "pearlllyy"
         self.status = "2nd Year IT Student"
-        self.major = "Software Development"
+        self.major = "Software"
         self.current_focus = [
             "Desktop Apps 🖥️",
             "Web Dev 🌐", 
@@ -229,7 +229,6 @@ graph LR
 - ✅ Build desktop apps with PyQt6
 - 🔄 Master Data Structures & Algorithms
 - 📝 Create portfolio website
-- 🌟 Contribute to open source
 - 🚀 Deploy 3 full projects
 - 📚 Write technical blogs
 - 💻 Learn a web framework
@@ -244,11 +243,8 @@ graph LR
 
 ## 🌐 Let's Connect
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:sobrevega.pearlanne.g@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="your-portfolio-url">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
@@ -293,7 +289,7 @@ graph LR
 
 <div align="center">
 
-**⭐️ From [pearlllyy](https://github.com/pearlllyy) with 💙**
+**- [pearlllyy](https://github.com/pearlllyy)**
 
 *"Code. Coffee. Commit. Repeat."*
 
