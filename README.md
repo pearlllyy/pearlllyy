@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Pearl
 
 <div align="center">
   
@@ -48,15 +48,19 @@ I'm a second-year IT student passionate about turning ideas into code. Currently
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<a href="https://github.com/pearlllyy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pearlllyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlllyy&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pearlllyy&theme=tokyonight" alt="pearlllyy's streak"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=pearlllyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pearlllyy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlllyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pearlllyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pearlllyy&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌱 What I'm Working On
 
