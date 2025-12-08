@@ -50,21 +50,18 @@ const student = {
 ![](https://nirzak-streak-stats.vercel.app/?user=pearlllyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlllyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pearlllyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pearlllyy=anuraghazra&show_icons=true&theme=radical)
-
+![Snake animation](https://github.com/pearlllyy/pearlllyy/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌱 What I'm Working On
 
 - 📚 Strengthening my foundation in core programming concepts
 
+
 ## 📫 Let's Connect!
 
 - 📧 Email: sobrevega.pearlanne.g@gmail.com
 - 🌐 Portfolio: [Coming Soon!]
+
 
 ## 🎯 Interests & Passions
 
@@ -90,15 +87,9 @@ const student = {
 - Machine Learning & AI
 - Software Engineering
 
-## 💭 Philosophy
-
-> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
-
----
 
 <div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/pearlllyy/count.svg)
+
   
   **Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out!** 😊
   
