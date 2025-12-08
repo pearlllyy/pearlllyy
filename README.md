@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=pearlllyy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PEARLLLYY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+Digital+Workspace+%F0%9F%91%8B;Where+Ideas+Transform+Into+Code+%E2%9C%A8" alt="Typing SVG" />
@@ -8,8 +8,8 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  🎓 2nd Year IT Student | 💻 Software Development Major      ║
-║  📍 Building the future, one commit at a time                ║
+║  🎓 2nd Year IT Student                                      ║
+║  📍 Building the future one, commit at a time                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -162,10 +162,8 @@ const learningPath = {
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pearlllyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pearlllyy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlllyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=pearlllyy&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pearlllyy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/>
 
 </div>
