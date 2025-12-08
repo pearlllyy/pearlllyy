@@ -53,11 +53,8 @@ const student = {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pearlllyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=pearlllyy&icon=0&color=0)](https://visitcount.itsvg.in)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pearlllyy=anuraghazra&show_icons=true&theme=radical)
 
 
 ## 🌱 What I'm Working On
