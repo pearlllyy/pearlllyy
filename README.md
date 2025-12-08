@@ -1,96 +1,302 @@
-# 👋 Hello, World! I'm Pearl
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=2nd+Year+IT+Student;Future+Software+Developer;Building+One+Commit+at+a+Time)
-  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=pearlllyy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+Digital+Workspace+%F0%9F%91%8B;Where+Ideas+Transform+Into+Code+%E2%9C%A8" alt="Typing SVG" />
+</h3>
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🎓 2nd Year IT Student | 💻 Software Development Major      ║
+║  📍 Building the future, one commit at a time                ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-## 🎓 About Me
+<br/>
 
-```javascript
-const student = {
-    education: "Information Technology - 2nd Year",
-    focus: "Software Development",
-    currentStatus: "Learning, Building, Growing",
-    futureGoal: "Software Major",
-    mindset: "Every bug is a lesson, every project is progress"
-};
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🌟 About Me
+
+```python
+#!/usr/bin/env python3
+
+class ITStudent:
+    def __init__(self):
+        self.username = "pearlllyy"
+        self.status = "2nd Year IT Student"
+        self.major = "Software Development"
+        self.current_focus = [
+            "Desktop Apps 🖥️",
+            "Web Dev 🌐", 
+            "Algorithms 🧮"
+        ]
+        self.mindset = "Continuous Learning"
+    
+    def get_daily_routine(self):
+        return {
+            "☕": "Coffee",
+            "💻": "Code", 
+            "🐛": "Debug",
+            "🔄": "Repeat"
+        }
 ```
-  I'm a second-year IT student passionate about turning ideas into code. Currently diving deep into programming fundamentals and exploring the vast world of software development. My GitHub is my digital classroom where I experiment, learn, and grow as a developer.
-## 🛠️ Tech Stack & Skills
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-### Frameworks & Libraries
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+> 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-### Database
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<br clear="right"/>
 
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Currently Learning
-- Advanced Python Development
-- Desktop Application Development with PyQt6
-- Database Design & Management
-- Web Development Fundamentals
-- Data Structures & Algorithms in C++
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=pearlllyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pearlllyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlllyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![Snake animation](https://github.com/pearlllyy/pearlllyy/blob/output/github-contribution-grid-snake.svg)
-
-## 🌱 What I'm Working On
-
-- 📚 Strengthening my foundation in core programming concepts
-
-
-## 📫 Let's Connect!
-
-- 📧 Email: sobrevega.pearlanne.g@gmail.com
-- 🌐 Portfolio: [Coming Soon!]
-
-
-## 🎯 Interests & Passions
-
-### 💻 Software Development
-- **Clean Code Enthusiast**: I believe in writing code that humans can read and machines can execute
-- **Problem Solver**: I love the challenge of breaking down complex problems into solutions
-- **Full-Stack Curious**: Exploring both frontend and backend to understand the complete picture
-
-### 🔧 What Excites Me
-- **Algorithm Design**: The art of creating efficient solutions fascinates me
-- **System Architecture**: Understanding how large-scale applications are built and maintained
-- **Automation**: Making repetitive tasks disappear with code
-
-### 📚 Beyond Code
-- Learning new programming paradigms and languages
-- Reading tech blogs and staying updated with industry trends
-- Debugging
-- Exploring how technology can solve real-world problems
-
-### 🚀 Future Interests
-- Mobile App Development
-- Web Development
-- Machine Learning & AI
-- Software Engineering
-
+---
 
 <div align="center">
 
-  
-  **Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out!** 😊
-  
+## 🛠️ Technology Stack
+
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="PyQt6" />
+        <br>PyQt6
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+        <br>SQLite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus & Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I'm Building
+
+- 🖥️ **Desktop Applications**
+  - GUI apps with PyQt6
+  - Database integration
+  - User-friendly interfaces
+
+- 🌐 **Web Projects**
+  - Interactive web pages
+  - Responsive designs
+  - Dynamic functionality
+
+- 📚 **Learning Projects**
+  - Algorithm implementations
+  - Data structure exercises
+  - Problem-solving challenges
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+
+```javascript
+const learningPath = {
+    languages: {
+        mastering: ["Python", "C++"],
+        exploring: ["JavaScript"]
+    },
+    frameworks: ["PyQt6"],
+    databases: ["SQLite", "SQL"],
+    concepts: [
+        "Data Structures",
+        "Algorithms",
+        "OOP Principles",
+        "Design Patterns"
+    ],
+    nextUp: [
+        "Web Frameworks",
+        "API Development",
+        "Cloud Computing"
+    ]
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pearlllyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pearlllyy&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearlllyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pearlllyy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 What Drives Me
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
+<br><b>Problem Solver</b>
+<br><sub>Breaking complex problems into elegant solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100"/>
+<br><b>Code Quality</b>
+<br><sub>Writing clean, maintainable code</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
+<br><b>Continuous Learning</b>
+<br><sub>Always exploring new technologies</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/>
+<br><b>Innovation</b>
+<br><sub>Building solutions that matter</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 2025 Roadmap
+
+```mermaid
+graph LR
+    A[Q1: Master DSA] --> B[Q2: Build 5+ Projects]
+    B --> C[Q3: Open Source]
+    C --> D[Q4: Full Stack App]
+    
+    style A fill:#58A6FF
+    style B fill:#58A6FF
+    style C fill:#58A6FF
+    style D fill:#58A6FF
+```
+
+</div>
+
+<details>
+<summary><b>📋 Detailed Goals (Click to expand)</b></summary>
+<br>
+
+- ✅ Learn Python fundamentals
+- ✅ Build desktop apps with PyQt6
+- 🔄 Master Data Structures & Algorithms
+- 📝 Create portfolio website
+- 🌟 Contribute to open source
+- 🚀 Deploy 3 full projects
+- 📚 Write technical blogs
+- 💻 Learn a web framework
+- 🎨 Improve UI/UX skills
+- 🤝 Network with developers
+
+</details>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+<a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="your-linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="your-portfolio-url">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/pearlllyy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pearlllyy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pearlllyy/pearlllyy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pearlllyy/pearlllyy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pearlllyy/pearlllyy/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<div align="center">
+
+**⭐️ From [pearlllyy](https://github.com/pearlllyy) with 💙**
+
+*"Code. Coffee. Commit. Repeat."*
+
 </div>
