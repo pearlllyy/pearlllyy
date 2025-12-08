@@ -8,8 +8,6 @@
 
 ## 🎓 About Me
 
-[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=AboutMe&title=I%27m+Pearl&desc=I%27m+a+second-year+IT+student+passionate+about+turning+ideas+into+code.+Currently+diving+deep+into+programming+fundamentals+and+exploring+the+vast+world+of+software+development.+My+GitHub+is+my+digital+classroom+where+I+experiment%2C+learn%2C+and+grow+as+a+developer.&theme=dark)](https://github.com/your-username/your-repo)
-
 ```javascript
 const student = {
     education: "Information Technology - 2nd Year",
@@ -19,7 +17,7 @@ const student = {
     mindset: "Every bug is a lesson, every project is progress"
 };
 ```
-
+  I'm a second-year IT student passionate about turning ideas into code. Currently diving deep into programming fundamentals and exploring the vast world of software development. My GitHub is my digital classroom where I experiment, learn, and grow as a developer.
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
