@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=2nd+year+BSIT+Student;Building+ideas+one+commit+at+a+time." alt="Typing SVG" />
 </h3>
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🎓 2nd Year IT Student                                      ║
-║  📍 Building the future one, commit at a time                ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 <br/>
@@ -30,9 +23,9 @@ class ITStudent:
         self.status = "2nd Year IT Student"
         self.major = "Software"
         self.current_focus = [
-            "Desktop Apps 🖥️",
-            "Web Dev 🌐", 
-            "Algorithms 🧮"
+            "Desktop Apps ",
+            "Web Dev ", 
+            "Algorithms "
         ]
         self.mindset = "Continuous Learning"
     
@@ -205,42 +198,6 @@ const learningPath = {
 
 <div align="center">
 
-## 🎯 2025 Roadmap
-
-```mermaid
-graph LR
-    A[Q1: Master DSA] --> B[Q2: Build 5+ Projects]
-    B --> C[Q3: Open Source]
-    C --> D[Q4: Full Stack App]
-    
-    style A fill:#58A6FF
-    style B fill:#58A6FF
-    style C fill:#58A6FF
-    style D fill:#58A6FF
-```
-
-</div>
-
-<details>
-<summary><b>📋 Detailed Goals (Click to expand)</b></summary>
-<br>
-
-- ✅ Learn Python fundamentals
-- ✅ Build desktop apps with PyQt6
-- 🔄 Master Data Structures & Algorithms
-- 📝 Create portfolio website
-- 🚀 Deploy 3 full projects
-- 📚 Write technical blogs
-- 💻 Learn a web framework
-- 🎨 Improve UI/UX skills
-- 🤝 Network with developers
-
-</details>
-
----
-
-<div align="center">
-
 ## 🌐 Let's Connect
 
 <a href="mailto:sobrevega.pearlanne.g@gmail.com">
@@ -269,19 +226,6 @@ graph LR
 
 </div>
 
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pearlllyy/pearlllyy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pearlllyy/pearlllyy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pearlllyy/pearlllyy/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
