@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🌟 About Me
+### About Me
 
 ```python
 #!/usr/bin/env python3
@@ -40,7 +40,7 @@ class ITStudent:
 
 <br/>
 
-> 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+>>  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 <br clear="right"/>
 
@@ -48,7 +48,7 @@ class ITStudent:
 
 <div align="center">
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <table>
 <tr>
@@ -93,35 +93,35 @@ class ITStudent:
 
 <div align="center">
 
-## 🎯 Current Focus & Projects
+## Current Focus & Projects
 
-</div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 What I'm Building
+### What I'm Building
 
-- 🖥️ **Desktop Applications**
+-  **Desktop Applications**
   - GUI apps with PyQt6
   - Database integration
   - User-friendly interfaces
 
-- 🌐 **Web Projects**
+-  **Web Projects**
   - Interactive web pages
   - Responsive designs
   - Dynamic functionality
 
-- 📚 **Learning Projects**
+-  **Learning Projects**
   - Algorithm implementations
   - Data structure exercises
   - Problem-solving challenges
 
 </td>
 <td width="50%" valign="top">
+</div>
 
-### 🌱 Currently Learning
+### Currently Learning
 
 ```javascript
 const learningPath = {
@@ -153,11 +153,9 @@ const learningPath = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=pearlllyy&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pearlllyy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pearlllyy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph"/>
 
 </div>
 
@@ -165,7 +163,7 @@ const learningPath = {
 
 <div align="center">
 
-## 💼 What Drives Me
+## What Drives Me
 
 <table>
 <tr>
@@ -198,7 +196,7 @@ const learningPath = {
 
 <div align="center">
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <a href="mailto:sobrevega.pearlanne.g@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -220,7 +218,7 @@ const learningPath = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
@@ -229,7 +227,7 @@ const learningPath = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <div align="center">
 
